@@ -6,7 +6,7 @@ from sklearn import metrics
 from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
 
-def MarvellousAdvertisementPredictor(data_path):
+def AdvertisementPredictor(data_path):
 
     data = pd.read_csv(data_path, index_col=0)
 
@@ -41,7 +41,7 @@ def MarvellousAdvertisementPredictor(data_path):
 
 def main():
 
-    MarvellousAdvertisementPredictor("Advertising.csv")
+    AdvertisementPredictor("Advertising.csv")
 
 
 if __name__ == "__main__":
