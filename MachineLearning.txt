@@ -1,0 +1,69 @@
+========================================== MACHINE LEARNING ==========================================
+
+1. Ball Classification
+    Ball_Classifier --> Ball Classification Case Study by Decision Tree Algorithm
+
+------------------------------------------------------------------------------------------------------
+
+2. Iris Flower Classification
+    1. IrisTreeClassifier --> Iris Flower Classification Case Study by Decision Tree Algorithm
+    2. IrisKNNClassifier  --> Iris Flower Classification Case Study by comparing KNN & Decision Tree Algorithm
+    3. IrisBoosting       --> Iris Flower Classification Case Study by Boosting technique Ensemble Algorithm
+    4. IrisHetrogeneous   --> Iris Flower Classification Case Study by Hetrogeneous Algorithm
+    5. KMeanIris          --> Iris Flower Classification Case Study by K-Mean clustring Algorithm
+    6. IrisSVM            --> Iris Flower Classification Case Study by Support Vector Machine Algorithm
+
+------------------------------------------------------------------------------------------------------
+
+3. Head Brain Size Predictor 
+    HeadBrainLinearReg --> Head-Brain Dataset Case Study by Linear Regression
+
+------------------------------------------------------------------------------------------------------
+
+4. Wine Predictor
+    WinePredictorKNN1 --> Wine Predictort Case Study by KNN using Inbuilt datset
+    WinePredictorKNN2 --> Wine Predictort Case Study by KNN using Csv file
+
+------------------------------------------------------------------------------------------------------
+
+5. PlayPredictor
+    PlayPredictor --> PlayPredictort Case Study by using KNN Algorithm
+
+------------------------------------------------------------------------------------------------------
+
+6. Titanic Servival Predictor
+    TitanicPredictor --> Titanic Case Study by Logistic Regression, Graphs by Matplotlib
+
+------------------------------------------------------------------------------------------------------
+
+7. Advertising Predictor
+    AdvertisingPredictor --> Advertising Predictor by Linear Regression
+
+------------------------------------------------------------------------------------------------------
+
+8. BreastCancer Detector
+    1. BreastCancer     --> BreastCancer Case Study by Random Forest Ensemble Algorithm
+    2. BreastCancerSVM  --> BreastCancer case study by Support Vector Machine Algorithm
+
+------------------------------------------------------------------------------------------------------
+
+9. Minst Case Study
+    MnistBoosting --> Mnist Case Study by Boosting technique Ensemble Algorithm
+
+------------------------------------------------------------------------------------------------------
+
+10. Diabetis Predictor
+    1. DiabetisPredictorDT  --> Diabetis Case Study using Decision Tree
+    2. DiabetisPredictorKNN --> Diabetis Case Study using KNN
+    3. DiabetisPredictorLR  --> Diabetis Case Study using Linear Regression
+    4. DiabetisPredictorRF  --> Diabetis Case Study using Random Forest
+
+------------------------------------------------------------------------------------------------------
+
+11. User Defined Implementation of Algorithms
+    1. IrisUserDefinedKNN   	 --> Iris Classification Case Study by User defined KNN Algorithm
+    2. LinearRegression          --> User Defined Linear Regression
+    3. HeadBrainLinearRegUserdef --> User Defined Linear Regression for Head-Brain Dataset
+    4. KMeanUserdef              --> K-Mean User Defined Implementation
+
+------------------------------------------------------------------------------------------------------
