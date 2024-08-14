@@ -16,8 +16,9 @@
     ------------------------------------------------------------------------------------------------------
 
     3. Head Brain Size Predictor
-        HeadBrainLinearReg --> 
-
+        HeadBrainLinearReg --> Head-Brain Dataset Case Study by Linear Regression
+    
+    ------------------------------------------------------------------------------------------------------
 
 
 
