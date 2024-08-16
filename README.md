@@ -21,5 +21,5 @@
     ------------------------------------------------------------------------------------------------------
 
     4. Wine Predictor
-        WinePredictorKNN1 --> Wine Predictort Case Study by KNN using Inbuilt datset
-        WinePredictorKNN2 --> Wine Predictort Case Study by KNN using Csv file
+        1. WinePredictorKNN1 --> Wine Predictort Case Study by KNN using Inbuilt datset
+        2. WinePredictorKNN2 --> Wine Predictort Case Study by KNN using Csv file
