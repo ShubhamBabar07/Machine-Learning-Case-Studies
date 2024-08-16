@@ -22,3 +22,4 @@
 
     4. Wine Predictor
 
+WinePredictorKNN1 --> Wine Predictort Case Study by KNN using Inbuilt datset
