@@ -23,5 +23,47 @@
     4. Wine Predictor
         1. WinePredictorKNN1 --> Wine Predictort Case Study by KNN using Inbuilt datset
         2. WinePredictorKNN2 --> Wine Predictort Case Study by KNN using Csv file
-
+    
+    ------------------------------------------------------------------------------------------------------
+    
+    5. PlayPredictor
+        PlayPredictor --> PlayPredictort Case Study by using KNN Algorithm
+    
+    ------------------------------------------------------------------------------------------------------
+    
+    6. Titanic Servival Predictor
+        TitanicPredictor --> Titanic Case Study by Logistic Regression, Graphs by Matplotlib
+    
+    ------------------------------------------------------------------------------------------------------
+    
+    7. Advertising Predictor
+        AdvertisingPredictor --> Advertising Predictor by Linear Regression
+    
+    ------------------------------------------------------------------------------------------------------
+    
+    8. BreastCancer Detector
+        1. BreastCancer     --> BreastCancer Case Study by Random Forest Ensemble Algorithm
+        2. BreastCancerSVM  --> BreastCancer case study by Support Vector Machine Algorithm
+    
+    ------------------------------------------------------------------------------------------------------
+    
+    9. Minst Case Study
+        MnistBoosting --> Mnist Case Study by Boosting technique Ensemble Algorithm
+    
+    ------------------------------------------------------------------------------------------------------
+    
+    10. Diabetis Predictor
+        1. DiabetisPredictorDT  --> Diabetis Case Study using Decision Tree
+        2. DiabetisPredictorKNN --> Diabetis Case Study using KNN
+        3. DiabetisPredictorLR  --> Diabetis Case Study using Linear Regression
+        4. DiabetisPredictorRF  --> Diabetis Case Study using Random Forest
+    
+    ------------------------------------------------------------------------------------------------------
+    
+    11. User Defined Implementation of Algorithms
+        1. IrisUserDefinedKNN   	 --> Iris Classification Case Study by User defined KNN Algorithm
+        2. LinearRegression          --> User Defined Linear Regression
+        3. HeadBrainLinearRegUserdef --> User Defined Linear Regression for Head-Brain Dataset
+        4. KMeanUserdef              --> K-Mean User Defined Implementation
+    
     ------------------------------------------------------------------------------------------------------
